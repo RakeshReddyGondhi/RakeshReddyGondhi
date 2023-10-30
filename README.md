@@ -20,7 +20,7 @@
 - 🛠️ Established CI/CD pipelines with Jenkins, enabling automated builds, testing, and deployment.
 - 📦 Leveraged Terraform and Ansible for efficient infrastructure provisioning and management.
 - 🗃️ Designed and implemented robust database systems using MySQL, MongoDB, and PostgreSQL.
-- 📜 Managed code repositories and facilitated collaboration using GitLab version control.
+- 📜 Managed code repositories and facilitated collaboration using Git version control.
 - 🐳 Employed Docker orchestration tools to streamline containerized application deployment.
 - 🐧 Proficient in configuring, troubleshooting, and optimizing Linux Ubuntu systems.
 - 📊 Implemented advanced monitoring and logging solutions for optimal system performance and availability.

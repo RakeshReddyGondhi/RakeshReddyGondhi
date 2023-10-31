@@ -3,7 +3,7 @@
 
 ### Skills:
 - 🌐 Web & Application Servers: Nginx, Apache, Tomcat
-- 🐍 Scripting Languages: Bash, Python
+- 🐍 Scripting Languages: Bash
 - ⚙️ Automation Tools: Jenkins, Terraform, Ansible
 - 🗃️ Databases: MySQL, MongoDB, PostgreSQL
 - 🗄️ Version Control: Git

@@ -16,7 +16,7 @@
 ### Core Experience:
 - 🚀 Developed and maintained Java-based applications with a focus on code quality and project requirements.
 - 👥 Collaborated closely with teams to implement efficient deployment and high-performance web and application servers.
-- 🔄 Automated workflows using Bash and Python scripting, enhancing productivity and streamlining processes.
+- 🔄 Automated workflows using Bash for enhancing productivity and streamlining processes.
 - 🛠️ Established CI/CD pipelines with Jenkins, enabling automated builds, testing, and deployment.
 - 📦 Leveraged Terraform and Ansible for efficient infrastructure provisioning and management.
 - 🗃️ Designed and implemented robust database systems using MySQL, MongoDB, and PostgreSQL.

@@ -14,7 +14,6 @@
 - ☁️ AWS Services: EC2, Lambda, RDS, S3, VPC, IAM, and more
 
 ### Core Experience:
-- 🚀 Developed and maintained Java-based applications with a focus on code quality and project requirements.
 - 👥 Collaborated closely with teams to implement efficient deployment and high-performance web and application servers.
 - 🔄 Automated workflows using Bash for enhancing productivity and streamlining processes.
 - 🛠️ Established CI/CD pipelines with Jenkins, enabling automated builds, testing, and deployment.

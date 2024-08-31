@@ -8,7 +8,7 @@
 - 🗃️ Databases: MySQL, MongoDB, PostgreSQL
 - 🗄️ Version Control: Git
 - 🛠️ Build Tools: Maven, npm
-- 🐳 Docker Orchestration: Kubernetes, AWS ECS, Docker Swarm
+- 🐳 Docker Orchestration: Kubernetes, AWS ECS
 - 🐧 Linux: Ubuntu
 - 📊 Monitoring & Logging: ELK, CloudWatch, Prometheus, Grafana
 - ☁️ AWS Services: EC2, Lambda, RDS, S3, VPC, IAM, and more
